@@ -1,14 +1,14 @@
 
 # Mario Bros Assignment
 
-In this project I further developed my C++ skills beyond the foundational knowledge I gained in the first semester to build a replica of the orginla 'Mario Bros' game using C++ and the University's SDL framework.
+In this project I further developed my C++ skills beyond the foundational knowledge I gained in the first semester to build a replica of the original 'Mario Bros' game using C++ and the SDL library.
 
 This project was completed in the second semester of my 'Game Engine Creation' module in the first year of my 'Computer Games Development' degree at Staffordshire University.
 
 
 ## Tech Stack
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* SDL (University Framework)
+* SDL
 
 
 ## Features
@@ -30,7 +30,7 @@ To write a 2D game replicating the first level of 'Mario Bros' using C++ and the
 
 
 ## Project Thinking
-I followed the tutorials provided in order to complete the first level of the mario bros game to match the criteria set in the assignment brief. I then used my knowledge and the code written for level 1 to create a second more challenging level for the player.
+I followed the tutorials provided in order to complete the first level of the mario bros game to match the criteria set in the assignment brief. I then used my knowledge and the code written for level one to create a second more challenging level.
 
 
 ## Key Learnings
