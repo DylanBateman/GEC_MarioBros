@@ -47,4 +47,6 @@ Overall, this was a very beneficial project early into my time at university tha
 ## Setup
 1. Download this project as zip and extract it
 2. Open 'GEC - Mario Bros.sln' and run.
-    
+
+## Project Video
+https://user-images.githubusercontent.com/56304201/186720656-3a1e5061-f670-42f0-9734-0722713e0623.mp4
